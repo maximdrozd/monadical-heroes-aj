@@ -41,4 +41,3 @@ Notes:
 - 
 - I didn't use existing repo by Monadical, as I was too excited to work on this and didn't see it until the second read of the email
 - Some attributes in classes should be made private, I kept most things public for now as it speeds up development
-- 
