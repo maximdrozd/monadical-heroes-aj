@@ -20,6 +20,7 @@ public class UI_Equipment : MonoBehaviour
     
     public void Redraw(Hero hero)
     {
+        if (!hero) return;
         nameLabel.text = hero.displayName;
         List<CalculatedStat> calc = new List<CalculatedStat>();
         foreach (Stat stat in hero.stats)

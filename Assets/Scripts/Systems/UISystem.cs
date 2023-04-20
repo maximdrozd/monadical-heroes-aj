@@ -23,8 +23,11 @@ namespace Systems
 
         public void RedrawEquipment()
         {
-            equipment.gameObject.SetActive(true);
-            equipment.Redraw(HeroSystem.Instance.activeHero);
+            if (HeroSystem.Instance.activeHero)
+            {
+                equipment.gameObject.SetActive(true);
+                equipment.Redraw(HeroSystem.Instance.activeHero);
+            }
         }
 
         public void ShowTooltip(Item item)

@@ -89,3 +89,147 @@ MonoBehaviour:
     stats:
     - id: strength
       value: 10
+  - id: staff_0
+    displayName: Sand Healer Staff
+    type: 3
+    rarity: 1
+    uiSprite: {fileID: 21300000, guid: 4ebc70b29cf84034aa52eafdbca3951d, type: 3}
+    worldSprite: {fileID: 21300000, guid: b7826963fed06b34397b89b96546f2e0, type: 3}
+    stats:
+    - id: intellect
+      value: 9
+    - id: wisdom
+      value: 9
+    - id: mastery
+      value: 9
+  - id: sword_3
+    displayName: Sharp Infantry Sword
+    type: 5
+    rarity: 3
+    uiSprite: {fileID: 21300000, guid: c278ec36abbc540489a08ba8765cd092, type: 3}
+    worldSprite: {fileID: 21300000, guid: dc292d5bcff23e54fbd72fdcc4e4e2b0, type: 3}
+    stats:
+    - id: intellect
+      value: 9
+    - id: wisdom
+      value: 9
+    - id: mastery
+      value: 9
+  - id: shield_0
+    displayName: Gladiator Shield
+    type: 3
+    rarity: 0
+    uiSprite: {fileID: 21300000, guid: d1debd018f9877c408ca2c35857bb8c2, type: 3}
+    worldSprite: {fileID: 21300000, guid: d1b07dcb9eb21f8459ab38d6fca1b47b, type: 3}
+    stats:
+    - id: endurance
+      value: 20
+    - id: mastery
+      value: 20
+    - id: luck
+      value: 20
+  - id: shield_1
+    displayName: Militiaman Shield
+    type: 3
+    rarity: 1
+    uiSprite: {fileID: 21300000, guid: cee802c4711b2cc4c9be089c2d913ba9, type: 3}
+    worldSprite: {fileID: 21300000, guid: d1b07dcb9eb21f8459ab38d6fca1b47b, type: 3}
+    stats:
+    - id: endurance
+      value: 25
+    - id: mastery
+      value: 20
+    - id: luck
+      value: 25
+  - id: shield_2
+    displayName: Steel Tower Shield
+    type: 3
+    rarity: 2
+    uiSprite: {fileID: 21300000, guid: fb6df7dc5ceebe744a0ea02ca322493c, type: 3}
+    worldSprite: {fileID: 21300000, guid: 2a3c612db3b71bf47abf9ade0bd83786, type: 3}
+    stats:
+    - id: endurance
+      value: 35
+    - id: mastery
+      value: 30
+    - id: luck
+      value: 25
+  - id: shield_3
+    displayName: Wooden Buckler
+    type: 3
+    rarity: 3
+    uiSprite: {fileID: 21300000, guid: 8c9bfd928f78cb541b9b79cfb995e5ae, type: 3}
+    worldSprite: {fileID: 21300000, guid: cb4b76e547efbd949930d44b2e4fc510, type: 3}
+    stats:
+    - id: endurance
+      value: 35
+    - id: mastery
+      value: 30
+    - id: luck
+      value: 25
+  - id: shield_4
+    displayName: Wooden Shield
+    type: 3
+    rarity: 3
+    uiSprite: {fileID: 21300000, guid: 0c6de69acca756c409be4810a8510ac5, type: 3}
+    worldSprite: {fileID: 21300000, guid: e73dc88e523a1cb45921de4384d82780, type: 3}
+    stats:
+    - id: endurance
+      value: 35
+    - id: mastery
+      value: 30
+    - id: luck
+      value: 25
+  - id: helm_0
+    displayName: Scout Helm
+    type: 0
+    rarity: 0
+    uiSprite: {fileID: 21300000, guid: 67eaf2a7d1686074684270d1821c55cb, type: 3}
+    worldSprite: {fileID: 21300000, guid: e6342aea59b2a0c42be12d5a8ea22e6a, type: 3}
+    stats:
+    - id: strength
+      value: 5
+    - id: intellect
+      value: 7
+    - id: wisdom
+      value: 8
+    - id: charisma
+      value: -1
+    - id: endurance
+      value: 20
+  - id: helm_1
+    displayName: Manticore Helm
+    type: 0
+    rarity: 1
+    uiSprite: {fileID: 21300000, guid: 9d4ad9585d881b9469236aa4e598a8b1, type: 3}
+    worldSprite: {fileID: 21300000, guid: e6342aea59b2a0c42be12d5a8ea22e6a, type: 3}
+    stats:
+    - id: strength
+      value: 5
+    - id: intellect
+      value: 7
+    - id: wisdom
+      value: 8
+    - id: charisma
+      value: -1
+    - id: endurance
+      value: 20
+  - id: helm_2
+    displayName: Knight Helm
+    type: 0
+    rarity: 2
+    uiSprite: {fileID: 21300000, guid: 896dada9aa8b8444b8145f80381d5fda, type: 3}
+    worldSprite: {fileID: 21300000, guid: 80d388a18e291924ea7300a2c77fc81c, type: 3}
+    stats:
+    - id: strength
+      value: 5
+    - id: intellect
+      value: 7
+    - id: wisdom
+      value: 8
+    - id: charisma
+      value: -1
+    - id: endurance
+      value: 20
+    - id: mastery
+      value: 20
